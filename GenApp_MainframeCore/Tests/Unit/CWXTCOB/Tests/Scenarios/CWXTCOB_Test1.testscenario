@@ -6,7 +6,7 @@
   <testscenario:testcases>
     <testscenario:testcase alias="" csect="CWXTCOB" encoding="1047" entrypoint="CWXTCOB#" id="Tests/Scenarios/CWXTCOB_Test1.testscenario%23CWXTCOBCase1" target="CWXTCOB">
       <testcase:description></testcase:description>
-      <testcase:ddio>SALESSUP.DDL1.DEV1.LOAD</testcase:ddio>
+      <testcase:ddio>SALESSUP.GITFLOWC.FEAT.LOAD</testcase:ddio>
       <testcase:ddiotype>EMBEDDED</testcase:ddiotype>
       <testcase:targetCaptureCompileTime>1679546116000</testcase:targetCaptureCompileTime>
       <testcase:interface>../Interfaces/CWXTCOB.interface#Tests/Interfaces/CWXTCOB.interface</testcase:interface>
